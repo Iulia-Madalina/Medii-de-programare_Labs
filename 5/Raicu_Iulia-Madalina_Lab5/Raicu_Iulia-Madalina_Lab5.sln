@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raicu_Iulia-Madalina_Lab5", "Raicu_Iulia-Madalina_Lab5.csproj", "{1DDE00C0-CD2C-491F-9285-1BDDCA8A7D7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{A9AA1DC8-A09D-43BD-B57E-BD7E97180534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1DDE00C0-CD2C-491F-9285-1BDDCA8A7D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DDE00C0-CD2C-491F-9285-1BDDCA8A7D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DDE00C0-CD2C-491F-9285-1BDDCA8A7D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AA1DC8-A09D-43BD-B57E-BD7E97180534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AA1DC8-A09D-43BD-B57E-BD7E97180534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AA1DC8-A09D-43BD-B57E-BD7E97180534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AA1DC8-A09D-43BD-B57E-BD7E97180534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
